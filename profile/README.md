@@ -1,5 +1,4 @@
-## Hi there 👋
-lovelygaogao.com
+## Hi there 
 <!--
 
 **Here are some ideas to get you started:**
